@@ -66,8 +66,9 @@ div .input1 {
     height: 20px;
     width: 230px;
     position: relative;
-    bottom: 4px;
+    bottom: 3px;
     padding: 5px;
+    font-size: 17px;
 }
 
 div .box2 {
