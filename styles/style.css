@@ -1,0 +1,107 @@
+@charset "UTF-8";
+
+:root {
+    --cor-azul-escuro: #014546;
+    --cor-azul-claro: #52A7AC;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    background-color: #52A7AC;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section {
+    width: 300px;
+
+    background-color: white;
+    border-radius: 2em;
+    height: 600px;
+    box-shadow: 0 0 19px rgba(0, 0, 0, 0.319);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+#div-image {
+    background-image: url("../imgs/pexels-ocean.jpg");
+    width: 300px;
+    height: 30vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 2em 2em 0 0;
+}
+
+div h1 {
+    text-align: center;
+    margin-top: 0.5em;
+}
+
+div p#p {
+    padding: 1em;
+    font-size: small;
+}
+
+div .box1 {
+    background-color: #014546;
+    margin: 0 0.5em 1em 0.5em;
+    border-radius: 0.5em;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+
+div span {
+    color: white;
+}
+
+div .input1 {
+    background-color: #65cdd3;
+    border-radius: 0.5em;
+    height: 20px;
+    width: 230px;
+    position: relative;
+    bottom: 4px;
+    padding: 5px;
+}
+
+div .box2 {
+    border-radius: 0.5em;
+    margin: 0 0.5em 1em 0.5em;
+    width: 285px;
+}
+
+div .box1, div .box2 {
+      height: 37px;
+}
+
+div .box2:hover {
+    cursor: pointer;
+}
+
+div #botao-entrar {
+    background-color: #52A7AC;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+} 
+
+div #botao-entrar:hover {
+    background-color: #014546;
+}
+
+div #botao-esqueci-senha {
+    background-color: white;
+    border-color: #014546;
+    font-size: large;
+    color: #014546;
+}
+
+div #botao-esqueci-senha:hover {
+    background-color: #52A7AC;
+}
