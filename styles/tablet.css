@@ -1,7 +1,61 @@
 @charset "UTF-8";
 
 @media screen and (min-width: 760px) {
-    
-    
 
+    :root {
+    --cor-azul-escuro: #014546;
+    --cor-azul-claro: #52A7AC;
+}
+    
+    html {
+        background-color: #46999e;
+    }
+
+    body {
+        background: linear-gradient(300deg, #014546, #52A7AC);
+    }
+
+    section {
+        width: 92vw;
+        height: 430px;
+    }
+
+    #div-image {
+        height: 430px;
+        border-radius: 2em 0 0 2em;
+        width: 32vw;
+        background-position: center right;
+        display: inline-block;
+    }
+
+    #div-form {
+        width: 59vw;
+        display: inline-block;
+        vertical-align: top;
+    }
+
+    div h1 {
+        margin-top: 1em;
+    }
+
+    div p#p {
+        font-size: medium;
+        margin-top: 1em;
+        margin-bottom: 1em;
+    }
+
+    div .input1 {
+        height: 28px;
+        width: 50vw;
+        bottom: 1px;
+        font-size: auto;
+    }
+
+    div .box2 {
+        width: 57vw;
+    }
+
+    div .box1, div .box2 {
+        height: 45px;
+    }
 }
