@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-@media screen and (min-width: 760px) and (max-width: 991px) {
+@media screen and (min-width: 991px) {
 
     :root {
     --cor-azul-escuro: #014546;
@@ -17,21 +17,28 @@
 
     section {
         width: 92vw;
-        height: 430px;
+        height: 460px;
+    }
+
+    section::after {
+        content: "";
+        display: block;
+        clear: both;
     }
 
     #div-image {
-        height: 430px;
-        border-radius: 2em 0 0 2em;
+        height: 460px;
+        border-radius: 0 2em 2em 0;
         width: 32vw;
         background-position: center right;
-        display: inline-block;
+        display: block;
+        float: right;
     }
 
     #div-form {
         width: 59vw;
-        display: inline-block;
-        vertical-align: top;
+        display: block;
+        float: left;
     }
 
     div h1 {
@@ -39,14 +46,15 @@
     }
 
     div p#p {
-        font-size: medium;
+        font-size: 1.1em;
         margin-top: 1em;
         margin-bottom: 1em;
+        text-align: center;
     }
 
     div .input1 {
-        height: 28px;
-        width: 50vw;
+        height: 38px;
+        width: 52vw;
         bottom: 1px;
         font-size: auto;
     }
@@ -56,6 +64,6 @@
     }
 
     div .box1, div .box2 {
-        height: 45px;
+        height: 55px;
     }
 }
