@@ -21,7 +21,7 @@
     }
 
     #div-image {
-        height: 350px;
+        height: 100%;
         border-radius: 2em 0 0 2em;
         width: 32vw;
         background-position: center right;
@@ -40,7 +40,7 @@
 
     div p#p {
         font-size: medium;
-        margin-top: 1em;
+        margin-top: 0 em;
         margin-bottom: 0;
     }
 

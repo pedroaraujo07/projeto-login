@@ -30,11 +30,14 @@ section {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    overflow: hidden;
+    transition: width 0.3s, height 0.3s;
+    transition-timing-function: ease;
 }
 
 #div-image {
     background-image: url("../imgs/pexels-ocean.jpg");
-    width: 300px;
+    width: 100%;
     height: 30vh;
     background-repeat: no-repeat;
     background-size: cover;
