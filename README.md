@@ -56,4 +56,14 @@ Durante o desenvolvimento deste projeto foram aplicados conceitos importantes, c
 
 ### Preview
 
-> **(Adicione aqui uma imagem ou GIF demonstrando o projeto)**
+<p align="center">
+  <img src="imgs/demo1.png" alt="Versão Desktop" width="32%">
+  <img src="imgs/demo2.png" alt="Versão Tablet" width="32%">
+  <img src="imgss/demo3.png" alt="Versão Mobile" width="20%">
+</p>
+
+<p align="center">
+  <strong>Desktop</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Tablet</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Mobile</strong>
+</p>
