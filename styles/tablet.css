@@ -45,11 +45,12 @@
     }
 
     div .input1 {
-        height: 16px;
-        width: 49vw;
-        bottom: 7px;
+        height: 18px;
+        width: calc(100% - 43px);
+        bottom: 6px;
         font-size: auto;
     }
+
 
     div .box2 {
         width: 57vw;
@@ -57,5 +58,6 @@
 
     div .box1, div .box2 {
         height: 30px;
+        margin: 0 0.5em 1em 0.5em;
     }
 }

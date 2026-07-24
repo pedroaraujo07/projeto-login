@@ -54,8 +54,7 @@
 
     div .input1 {
         height: 38px;
-        width: 52vw;
-        bottom: 1px;
+        top: 1px;
         font-size: auto;
     }
 
@@ -65,5 +64,6 @@
 
     div .box1, div .box2 {
         height: 55px;
+        margin: 0 0.5em 1em 0.5em;
     }
 }
