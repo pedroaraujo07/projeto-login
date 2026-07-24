@@ -63,11 +63,11 @@ Durante o desenvolvimento deste projeto foram aplicados conceitos importantes, c
 ### Tablet
 
 <p align="center">
-  <img src="imgs/demo2.png" alt="Versão Tablet" width="85%">
+  <img src="imgs/demo2.png" alt="Versão Tablet" width="47%">
 </p>
 
 ### Smartphone
 
 <p align="center">
-  <img src="imgs/demo3.png" alt="Versão Smartphone" width="85%">
+  <img src="imgs/demo3.png" alt="Versão Smartphone" width="27%">
 </p>
