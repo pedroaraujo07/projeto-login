@@ -54,16 +54,20 @@ Durante o desenvolvimento deste projeto foram aplicados conceitos importantes, c
 **Acesse o projeto:**  
 <a href="https://pedroaraujo07.github.io/projeto-login/" target="_blank">Link do site</a>
 
-### Preview
+#### Desktop
 
 <p align="center">
-  <img src="imgs/demo1.png" alt="Versão Desktop" width="32%">
-  <img src="imgs/demo2.png" alt="Versão Tablet" width="32%">
-  <img src="imgss/demo3.png" alt="Versão Mobile" width="20%">
+  <img src="imgs/demo1.png" alt="Versão Desktop" width="85%">
 </p>
 
+### Tablet
+
 <p align="center">
-  <strong>Desktop</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Tablet</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Mobile</strong>
+  <img src="imgs/demo2.png" alt="Versão Tablet" width="85%">
+</p>
+
+### Smartphone
+
+<p align="center">
+  <img src="imgs/demo3.png" alt="Versão Smartphone" width="85%">
 </p>
